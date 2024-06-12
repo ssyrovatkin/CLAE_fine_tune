@@ -1,0 +1,602 @@
+[Epoch]: 0
+accuracy: 24.6% 	 (best acc: 24.6%)
+[Epoch]: 1
+accuracy: 31.65% 	 (best acc: 31.65%)
+[Epoch]: 2
+accuracy: 39.65% 	 (best acc: 39.65%)
+[Epoch]: 3
+accuracy: 40.54% 	 (best acc: 40.54%)
+[Epoch]: 4
+accuracy: 40.99% 	 (best acc: 40.99%)
+[Epoch]: 5
+accuracy: 43.16% 	 (best acc: 43.16%)
+[Epoch]: 6
+accuracy: 45.73% 	 (best acc: 45.73%)
+[Epoch]: 7
+accuracy: 43.94% 	 (best acc: 45.73%)
+[Epoch]: 8
+accuracy: 45.23% 	 (best acc: 45.73%)
+[Epoch]: 9
+accuracy: 45.15% 	 (best acc: 45.73%)
+[Epoch]: 10
+accuracy: 46.8% 	 (best acc: 46.8%)
+[Epoch]: 11
+accuracy: 48.1% 	 (best acc: 48.1%)
+[Epoch]: 12
+accuracy: 48.63% 	 (best acc: 48.63%)
+[Epoch]: 13
+accuracy: 47.82% 	 (best acc: 48.63%)
+[Epoch]: 14
+accuracy: 45.78% 	 (best acc: 48.63%)
+[Epoch]: 15
+accuracy: 44.85% 	 (best acc: 48.63%)
+[Epoch]: 16
+accuracy: 51.29% 	 (best acc: 51.29%)
+[Epoch]: 17
+accuracy: 49.93% 	 (best acc: 51.29%)
+[Epoch]: 18
+accuracy: 49.81% 	 (best acc: 51.29%)
+[Epoch]: 19
+accuracy: 51.35% 	 (best acc: 51.35%)
+[Epoch]: 20
+accuracy: 50.64% 	 (best acc: 51.35%)
+[Epoch]: 21
+accuracy: 51.94% 	 (best acc: 51.94%)
+[Epoch]: 22
+accuracy: 51.34% 	 (best acc: 51.94%)
+[Epoch]: 23
+accuracy: 50.05% 	 (best acc: 51.94%)
+[Epoch]: 24
+accuracy: 50.58% 	 (best acc: 51.94%)
+[Epoch]: 25
+accuracy: 52.34% 	 (best acc: 52.34%)
+[Epoch]: 26
+accuracy: 52.06% 	 (best acc: 52.34%)
+[Epoch]: 27
+accuracy: 53.09% 	 (best acc: 53.09%)
+[Epoch]: 28
+accuracy: 53.51% 	 (best acc: 53.51%)
+[Epoch]: 29
+accuracy: 51.89% 	 (best acc: 53.51%)
+[Epoch]: 30
+accuracy: 50.29% 	 (best acc: 53.51%)
+[Epoch]: 31
+accuracy: 49.62% 	 (best acc: 53.51%)
+[Epoch]: 32
+accuracy: 53.05% 	 (best acc: 53.51%)
+[Epoch]: 33
+accuracy: 52.77% 	 (best acc: 53.51%)
+[Epoch]: 34
+accuracy: 52.4% 	 (best acc: 53.51%)
+[Epoch]: 35
+accuracy: 49.68% 	 (best acc: 53.51%)
+[Epoch]: 36
+accuracy: 51.89% 	 (best acc: 53.51%)
+[Epoch]: 37
+accuracy: 51.28% 	 (best acc: 53.51%)
+[Epoch]: 38
+accuracy: 52.86% 	 (best acc: 53.51%)
+[Epoch]: 39
+accuracy: 52.53% 	 (best acc: 53.51%)
+[Epoch]: 40
+accuracy: 52.36% 	 (best acc: 53.51%)
+[Epoch]: 41
+accuracy: 53.15% 	 (best acc: 53.51%)
+[Epoch]: 42
+accuracy: 53.13% 	 (best acc: 53.51%)
+[Epoch]: 43
+accuracy: 51.02% 	 (best acc: 53.51%)
+[Epoch]: 44
+accuracy: 53.44% 	 (best acc: 53.51%)
+[Epoch]: 45
+accuracy: 54.26% 	 (best acc: 54.26%)
+[Epoch]: 46
+accuracy: 51.15% 	 (best acc: 54.26%)
+[Epoch]: 47
+accuracy: 52.76% 	 (best acc: 54.26%)
+[Epoch]: 48
+accuracy: 52.29% 	 (best acc: 54.26%)
+[Epoch]: 49
+accuracy: 52.14% 	 (best acc: 54.26%)
+[Epoch]: 50
+accuracy: 54.64% 	 (best acc: 54.64%)
+[Epoch]: 51
+accuracy: 52.99% 	 (best acc: 54.64%)
+[Epoch]: 52
+accuracy: 50.76% 	 (best acc: 54.64%)
+[Epoch]: 53
+accuracy: 54.19% 	 (best acc: 54.64%)
+[Epoch]: 54
+accuracy: 52.21% 	 (best acc: 54.64%)
+[Epoch]: 55
+accuracy: 53.17% 	 (best acc: 54.64%)
+[Epoch]: 56
+accuracy: 50.86% 	 (best acc: 54.64%)
+[Epoch]: 57
+accuracy: 55.69% 	 (best acc: 55.69%)
+[Epoch]: 58
+accuracy: 54.21% 	 (best acc: 55.69%)
+[Epoch]: 59
+accuracy: 52.26% 	 (best acc: 55.69%)
+[Epoch]: 60
+accuracy: 53.16% 	 (best acc: 55.69%)
+[Epoch]: 61
+accuracy: 54.37% 	 (best acc: 55.69%)
+[Epoch]: 62
+accuracy: 55.49% 	 (best acc: 55.69%)
+[Epoch]: 63
+accuracy: 53.68% 	 (best acc: 55.69%)
+[Epoch]: 64
+accuracy: 52.45% 	 (best acc: 55.69%)
+[Epoch]: 65
+accuracy: 51.72% 	 (best acc: 55.69%)
+[Epoch]: 66
+accuracy: 54.95% 	 (best acc: 55.69%)
+[Epoch]: 67
+accuracy: 53.08% 	 (best acc: 55.69%)
+[Epoch]: 68
+accuracy: 54.15% 	 (best acc: 55.69%)
+[Epoch]: 69
+accuracy: 54.44% 	 (best acc: 55.69%)
+[Epoch]: 70
+accuracy: 53.39% 	 (best acc: 55.69%)
+[Epoch]: 71
+accuracy: 53.86% 	 (best acc: 55.69%)
+[Epoch]: 72
+accuracy: 53.49% 	 (best acc: 55.69%)
+[Epoch]: 73
+accuracy: 53.88% 	 (best acc: 55.69%)
+[Epoch]: 74
+accuracy: 53.0% 	 (best acc: 55.69%)
+[Epoch]: 75
+accuracy: 55.66% 	 (best acc: 55.69%)
+[Epoch]: 76
+accuracy: 54.58% 	 (best acc: 55.69%)
+[Epoch]: 77
+accuracy: 53.95% 	 (best acc: 55.69%)
+[Epoch]: 78
+accuracy: 55.13% 	 (best acc: 55.69%)
+[Epoch]: 79
+accuracy: 54.58% 	 (best acc: 55.69%)
+[Epoch]: 80
+accuracy: 54.92% 	 (best acc: 55.69%)
+[Epoch]: 81
+accuracy: 52.94% 	 (best acc: 55.69%)
+[Epoch]: 82
+accuracy: 51.04% 	 (best acc: 55.69%)
+[Epoch]: 83
+accuracy: 52.18% 	 (best acc: 55.69%)
+[Epoch]: 84
+accuracy: 53.15% 	 (best acc: 55.69%)
+[Epoch]: 85
+accuracy: 54.12% 	 (best acc: 55.69%)
+[Epoch]: 86
+accuracy: 53.36% 	 (best acc: 55.69%)
+[Epoch]: 87
+accuracy: 53.2% 	 (best acc: 55.69%)
+[Epoch]: 88
+accuracy: 53.92% 	 (best acc: 55.69%)
+[Epoch]: 89
+accuracy: 52.41% 	 (best acc: 55.69%)
+[Epoch]: 90
+accuracy: 55.99% 	 (best acc: 55.99%)
+[Epoch]: 91
+accuracy: 53.84% 	 (best acc: 55.99%)
+[Epoch]: 92
+accuracy: 54.77% 	 (best acc: 55.99%)
+[Epoch]: 93
+accuracy: 52.64% 	 (best acc: 55.99%)
+[Epoch]: 94
+accuracy: 53.8% 	 (best acc: 55.99%)
+[Epoch]: 95
+accuracy: 54.85% 	 (best acc: 55.99%)
+[Epoch]: 96
+accuracy: 51.38% 	 (best acc: 55.99%)
+[Epoch]: 97
+accuracy: 53.55% 	 (best acc: 55.99%)
+[Epoch]: 98
+accuracy: 52.5% 	 (best acc: 55.99%)
+[Epoch]: 99
+accuracy: 56.07% 	 (best acc: 56.07%)
+[Epoch]: 100
+accuracy: 56.18% 	 (best acc: 56.18%)
+[Epoch]: 101
+accuracy: 54.93% 	 (best acc: 56.18%)
+[Epoch]: 102
+accuracy: 53.75% 	 (best acc: 56.18%)
+[Epoch]: 103
+accuracy: 54.94% 	 (best acc: 56.18%)
+[Epoch]: 104
+accuracy: 54.46% 	 (best acc: 56.18%)
+[Epoch]: 105
+accuracy: 50.96% 	 (best acc: 56.18%)
+[Epoch]: 106
+accuracy: 54.52% 	 (best acc: 56.18%)
+[Epoch]: 107
+accuracy: 54.8% 	 (best acc: 56.18%)
+[Epoch]: 108
+accuracy: 53.24% 	 (best acc: 56.18%)
+[Epoch]: 109
+accuracy: 53.58% 	 (best acc: 56.18%)
+[Epoch]: 110
+accuracy: 53.78% 	 (best acc: 56.18%)
+[Epoch]: 111
+accuracy: 54.96% 	 (best acc: 56.18%)
+[Epoch]: 112
+accuracy: 54.91% 	 (best acc: 56.18%)
+[Epoch]: 113
+accuracy: 55.58% 	 (best acc: 56.18%)
+[Epoch]: 114
+accuracy: 56.94% 	 (best acc: 56.94%)
+[Epoch]: 115
+accuracy: 52.92% 	 (best acc: 56.94%)
+[Epoch]: 116
+accuracy: 51.38% 	 (best acc: 56.94%)
+[Epoch]: 117
+accuracy: 53.23% 	 (best acc: 56.94%)
+[Epoch]: 118
+accuracy: 55.38% 	 (best acc: 56.94%)
+[Epoch]: 119
+accuracy: 55.15% 	 (best acc: 56.94%)
+[Epoch]: 120
+accuracy: 66.15% 	 (best acc: 66.15%)
+[Epoch]: 121
+accuracy: 67.28% 	 (best acc: 67.28%)
+[Epoch]: 122
+accuracy: 67.72% 	 (best acc: 67.72%)
+[Epoch]: 123
+accuracy: 68.2% 	 (best acc: 68.2%)
+[Epoch]: 124
+accuracy: 67.71% 	 (best acc: 68.2%)
+[Epoch]: 125
+accuracy: 67.66% 	 (best acc: 68.2%)
+[Epoch]: 126
+accuracy: 67.97% 	 (best acc: 68.2%)
+[Epoch]: 127
+accuracy: 68.28% 	 (best acc: 68.28%)
+[Epoch]: 128
+accuracy: 68.75% 	 (best acc: 68.75%)
+[Epoch]: 129
+accuracy: 68.64% 	 (best acc: 68.75%)
+[Epoch]: 130
+accuracy: 68.52% 	 (best acc: 68.75%)
+[Epoch]: 131
+accuracy: 68.27% 	 (best acc: 68.75%)
+[Epoch]: 132
+accuracy: 68.01% 	 (best acc: 68.75%)
+[Epoch]: 133
+accuracy: 68.31% 	 (best acc: 68.75%)
+[Epoch]: 134
+accuracy: 68.68% 	 (best acc: 68.75%)
+[Epoch]: 135
+accuracy: 68.08% 	 (best acc: 68.75%)
+[Epoch]: 136
+accuracy: 68.07% 	 (best acc: 68.75%)
+[Epoch]: 137
+accuracy: 67.35% 	 (best acc: 68.75%)
+[Epoch]: 138
+accuracy: 67.64% 	 (best acc: 68.75%)
+[Epoch]: 139
+accuracy: 68.37% 	 (best acc: 68.75%)
+[Epoch]: 140
+accuracy: 67.46% 	 (best acc: 68.75%)
+[Epoch]: 141
+accuracy: 67.88% 	 (best acc: 68.75%)
+[Epoch]: 142
+accuracy: 67.6% 	 (best acc: 68.75%)
+[Epoch]: 143
+accuracy: 68.12% 	 (best acc: 68.75%)
+[Epoch]: 144
+accuracy: 68.31% 	 (best acc: 68.75%)
+[Epoch]: 145
+accuracy: 67.67% 	 (best acc: 68.75%)
+[Epoch]: 146
+accuracy: 68.05% 	 (best acc: 68.75%)
+[Epoch]: 147
+accuracy: 66.78% 	 (best acc: 68.75%)
+[Epoch]: 148
+accuracy: 66.69% 	 (best acc: 68.75%)
+[Epoch]: 149
+accuracy: 66.45% 	 (best acc: 68.75%)
+[Epoch]: 150
+accuracy: 66.87% 	 (best acc: 68.75%)
+[Epoch]: 151
+accuracy: 67.82% 	 (best acc: 68.75%)
+[Epoch]: 152
+accuracy: 66.34% 	 (best acc: 68.75%)
+[Epoch]: 153
+accuracy: 66.67% 	 (best acc: 68.75%)
+[Epoch]: 154
+accuracy: 65.49% 	 (best acc: 68.75%)
+[Epoch]: 155
+accuracy: 67.04% 	 (best acc: 68.75%)
+[Epoch]: 156
+accuracy: 65.57% 	 (best acc: 68.75%)
+[Epoch]: 157
+accuracy: 66.26% 	 (best acc: 68.75%)
+[Epoch]: 158
+accuracy: 65.85% 	 (best acc: 68.75%)
+[Epoch]: 159
+accuracy: 67.18% 	 (best acc: 68.75%)
+[Epoch]: 160
+accuracy: 68.02% 	 (best acc: 68.75%)
+[Epoch]: 161
+accuracy: 68.46% 	 (best acc: 68.75%)
+[Epoch]: 162
+accuracy: 67.53% 	 (best acc: 68.75%)
+[Epoch]: 163
+accuracy: 67.79% 	 (best acc: 68.75%)
+[Epoch]: 164
+accuracy: 68.15% 	 (best acc: 68.75%)
+[Epoch]: 165
+accuracy: 68.21% 	 (best acc: 68.75%)
+[Epoch]: 166
+accuracy: 67.72% 	 (best acc: 68.75%)
+[Epoch]: 167
+accuracy: 67.91% 	 (best acc: 68.75%)
+[Epoch]: 168
+accuracy: 67.53% 	 (best acc: 68.75%)
+[Epoch]: 169
+accuracy: 67.13% 	 (best acc: 68.75%)
+[Epoch]: 170
+accuracy: 67.84% 	 (best acc: 68.75%)
+[Epoch]: 171
+accuracy: 66.97% 	 (best acc: 68.75%)
+[Epoch]: 172
+accuracy: 66.98% 	 (best acc: 68.75%)
+[Epoch]: 173
+accuracy: 67.1% 	 (best acc: 68.75%)
+[Epoch]: 174
+accuracy: 66.72% 	 (best acc: 68.75%)
+[Epoch]: 175
+accuracy: 67.12% 	 (best acc: 68.75%)
+[Epoch]: 176
+accuracy: 66.8% 	 (best acc: 68.75%)
+[Epoch]: 177
+accuracy: 67.03% 	 (best acc: 68.75%)
+[Epoch]: 178
+accuracy: 66.77% 	 (best acc: 68.75%)
+[Epoch]: 179
+accuracy: 67.28% 	 (best acc: 68.75%)
+[Epoch]: 180
+accuracy: 66.97% 	 (best acc: 68.75%)
+[Epoch]: 181
+accuracy: 67.49% 	 (best acc: 68.75%)
+[Epoch]: 182
+accuracy: 66.42% 	 (best acc: 68.75%)
+[Epoch]: 183
+accuracy: 67.38% 	 (best acc: 68.75%)
+[Epoch]: 184
+accuracy: 67.2% 	 (best acc: 68.75%)
+[Epoch]: 185
+accuracy: 66.79% 	 (best acc: 68.75%)
+[Epoch]: 186
+accuracy: 67.19% 	 (best acc: 68.75%)
+[Epoch]: 187
+accuracy: 66.04% 	 (best acc: 68.75%)
+[Epoch]: 188
+accuracy: 66.52% 	 (best acc: 68.75%)
+[Epoch]: 189
+accuracy: 66.6% 	 (best acc: 68.75%)
+[Epoch]: 190
+accuracy: 66.72% 	 (best acc: 68.75%)
+[Epoch]: 191
+accuracy: 66.68% 	 (best acc: 68.75%)
+[Epoch]: 192
+accuracy: 67.0% 	 (best acc: 68.75%)
+[Epoch]: 193
+accuracy: 66.67% 	 (best acc: 68.75%)
+[Epoch]: 194
+accuracy: 66.44% 	 (best acc: 68.75%)
+[Epoch]: 195
+accuracy: 66.2% 	 (best acc: 68.75%)
+[Epoch]: 196
+accuracy: 66.83% 	 (best acc: 68.75%)
+[Epoch]: 197
+accuracy: 66.71% 	 (best acc: 68.75%)
+[Epoch]: 198
+accuracy: 67.12% 	 (best acc: 68.75%)
+[Epoch]: 199
+accuracy: 66.38% 	 (best acc: 68.75%)
+[Epoch]: 200
+accuracy: 68.22% 	 (best acc: 68.75%)
+[Epoch]: 201
+accuracy: 68.29% 	 (best acc: 68.75%)
+[Epoch]: 202
+accuracy: 68.13% 	 (best acc: 68.75%)
+[Epoch]: 203
+accuracy: 68.4% 	 (best acc: 68.75%)
+[Epoch]: 204
+accuracy: 68.04% 	 (best acc: 68.75%)
+[Epoch]: 205
+accuracy: 68.38% 	 (best acc: 68.75%)
+[Epoch]: 206
+accuracy: 67.85% 	 (best acc: 68.75%)
+[Epoch]: 207
+accuracy: 68.06% 	 (best acc: 68.75%)
+[Epoch]: 208
+accuracy: 68.02% 	 (best acc: 68.75%)
+[Epoch]: 209
+accuracy: 67.88% 	 (best acc: 68.75%)
+[Epoch]: 210
+accuracy: 68.0% 	 (best acc: 68.75%)
+[Epoch]: 211
+accuracy: 68.24% 	 (best acc: 68.75%)
+[Epoch]: 212
+accuracy: 68.48% 	 (best acc: 68.75%)
+[Epoch]: 213
+accuracy: 68.27% 	 (best acc: 68.75%)
+[Epoch]: 214
+accuracy: 67.89% 	 (best acc: 68.75%)
+[Epoch]: 215
+accuracy: 67.96% 	 (best acc: 68.75%)
+[Epoch]: 216
+accuracy: 67.56% 	 (best acc: 68.75%)
+[Epoch]: 217
+accuracy: 67.69% 	 (best acc: 68.75%)
+[Epoch]: 218
+accuracy: 67.58% 	 (best acc: 68.75%)
+[Epoch]: 219
+accuracy: 67.52% 	 (best acc: 68.75%)
+[Epoch]: 220
+accuracy: 67.86% 	 (best acc: 68.75%)
+[Epoch]: 221
+accuracy: 67.77% 	 (best acc: 68.75%)
+[Epoch]: 222
+accuracy: 67.53% 	 (best acc: 68.75%)
+[Epoch]: 223
+accuracy: 67.51% 	 (best acc: 68.75%)
+[Epoch]: 224
+accuracy: 67.38% 	 (best acc: 68.75%)
+[Epoch]: 225
+accuracy: 67.72% 	 (best acc: 68.75%)
+[Epoch]: 226
+accuracy: 67.81% 	 (best acc: 68.75%)
+[Epoch]: 227
+accuracy: 67.54% 	 (best acc: 68.75%)
+[Epoch]: 228
+accuracy: 67.69% 	 (best acc: 68.75%)
+[Epoch]: 229
+accuracy: 67.37% 	 (best acc: 68.75%)
+[Epoch]: 230
+accuracy: 67.51% 	 (best acc: 68.75%)
+[Epoch]: 231
+accuracy: 67.66% 	 (best acc: 68.75%)
+[Epoch]: 232
+accuracy: 67.62% 	 (best acc: 68.75%)
+[Epoch]: 233
+accuracy: 67.14% 	 (best acc: 68.75%)
+[Epoch]: 234
+accuracy: 67.21% 	 (best acc: 68.75%)
+[Epoch]: 235
+accuracy: 67.48% 	 (best acc: 68.75%)
+[Epoch]: 236
+accuracy: 67.23% 	 (best acc: 68.75%)
+[Epoch]: 237
+accuracy: 67.82% 	 (best acc: 68.75%)
+[Epoch]: 238
+accuracy: 67.37% 	 (best acc: 68.75%)
+[Epoch]: 239
+accuracy: 67.07% 	 (best acc: 68.75%)
+[Epoch]: 240
+accuracy: 66.95% 	 (best acc: 68.75%)
+[Epoch]: 241
+accuracy: 67.42% 	 (best acc: 68.75%)
+[Epoch]: 242
+accuracy: 67.16% 	 (best acc: 68.75%)
+[Epoch]: 243
+accuracy: 67.54% 	 (best acc: 68.75%)
+[Epoch]: 244
+accuracy: 67.25% 	 (best acc: 68.75%)
+[Epoch]: 245
+accuracy: 66.95% 	 (best acc: 68.75%)
+[Epoch]: 246
+accuracy: 67.46% 	 (best acc: 68.75%)
+[Epoch]: 247
+accuracy: 67.43% 	 (best acc: 68.75%)
+[Epoch]: 248
+accuracy: 67.16% 	 (best acc: 68.75%)
+[Epoch]: 249
+accuracy: 67.29% 	 (best acc: 68.75%)
+[Epoch]: 250
+accuracy: 67.42% 	 (best acc: 68.75%)
+[Epoch]: 251
+accuracy: 67.23% 	 (best acc: 68.75%)
+[Epoch]: 252
+accuracy: 66.95% 	 (best acc: 68.75%)
+[Epoch]: 253
+accuracy: 66.99% 	 (best acc: 68.75%)
+[Epoch]: 254
+accuracy: 67.5% 	 (best acc: 68.75%)
+[Epoch]: 255
+accuracy: 67.29% 	 (best acc: 68.75%)
+[Epoch]: 256
+accuracy: 66.85% 	 (best acc: 68.75%)
+[Epoch]: 257
+accuracy: 67.4% 	 (best acc: 68.75%)
+[Epoch]: 258
+accuracy: 67.24% 	 (best acc: 68.75%)
+[Epoch]: 259
+accuracy: 67.08% 	 (best acc: 68.75%)
+[Epoch]: 260
+accuracy: 67.34% 	 (best acc: 68.75%)
+[Epoch]: 261
+accuracy: 67.21% 	 (best acc: 68.75%)
+[Epoch]: 262
+accuracy: 67.38% 	 (best acc: 68.75%)
+[Epoch]: 263
+accuracy: 67.16% 	 (best acc: 68.75%)
+[Epoch]: 264
+accuracy: 67.07% 	 (best acc: 68.75%)
+[Epoch]: 265
+accuracy: 67.5% 	 (best acc: 68.75%)
+[Epoch]: 266
+accuracy: 67.29% 	 (best acc: 68.75%)
+[Epoch]: 267
+accuracy: 66.8% 	 (best acc: 68.75%)
+[Epoch]: 268
+accuracy: 67.42% 	 (best acc: 68.75%)
+[Epoch]: 269
+accuracy: 67.16% 	 (best acc: 68.75%)
+[Epoch]: 270
+accuracy: 66.87% 	 (best acc: 68.75%)
+[Epoch]: 271
+accuracy: 67.05% 	 (best acc: 68.75%)
+[Epoch]: 272
+accuracy: 67.09% 	 (best acc: 68.75%)
+[Epoch]: 273
+accuracy: 67.27% 	 (best acc: 68.75%)
+[Epoch]: 274
+accuracy: 66.91% 	 (best acc: 68.75%)
+[Epoch]: 275
+accuracy: 67.19% 	 (best acc: 68.75%)
+[Epoch]: 276
+accuracy: 67.32% 	 (best acc: 68.75%)
+[Epoch]: 277
+accuracy: 67.5% 	 (best acc: 68.75%)
+[Epoch]: 278
+accuracy: 67.15% 	 (best acc: 68.75%)
+[Epoch]: 279
+accuracy: 67.31% 	 (best acc: 68.75%)
+[Epoch]: 280
+accuracy: 66.58% 	 (best acc: 68.75%)
+[Epoch]: 281
+accuracy: 66.63% 	 (best acc: 68.75%)
+[Epoch]: 282
+accuracy: 66.98% 	 (best acc: 68.75%)
+[Epoch]: 283
+accuracy: 67.04% 	 (best acc: 68.75%)
+[Epoch]: 284
+accuracy: 67.15% 	 (best acc: 68.75%)
+[Epoch]: 285
+accuracy: 66.99% 	 (best acc: 68.75%)
+[Epoch]: 286
+accuracy: 67.15% 	 (best acc: 68.75%)
+[Epoch]: 287
+accuracy: 66.93% 	 (best acc: 68.75%)
+[Epoch]: 288
+accuracy: 66.71% 	 (best acc: 68.75%)
+[Epoch]: 289
+accuracy: 67.12% 	 (best acc: 68.75%)
+[Epoch]: 290
+accuracy: 66.94% 	 (best acc: 68.75%)
+[Epoch]: 291
+accuracy: 67.25% 	 (best acc: 68.75%)
+[Epoch]: 292
+accuracy: 66.44% 	 (best acc: 68.75%)
+[Epoch]: 293
+accuracy: 66.59% 	 (best acc: 68.75%)
+[Epoch]: 294
+accuracy: 66.95% 	 (best acc: 68.75%)
+[Epoch]: 295
+accuracy: 66.71% 	 (best acc: 68.75%)
+[Epoch]: 296
+accuracy: 66.62% 	 (best acc: 68.75%)
+[Epoch]: 297
+accuracy: 66.66% 	 (best acc: 68.75%)
+[Epoch]: 298
+accuracy: 66.91% 	 (best acc: 68.75%)
+[Epoch]: 299
+accuracy: 67.2% 	 (best acc: 68.75%)
+[Epoch]: 300
+accuracy: 66.5% 	 (best acc: 68.75%)
